@@ -136,3 +136,18 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/peptidetools.iml
+.idea/inspectionProfiles/profiles_settings.xml
+
+# OS generated files #
+######################
+.DS_Store
+*.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
